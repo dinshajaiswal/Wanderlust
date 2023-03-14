@@ -1,0 +1,29 @@
+{
+  "name": "apiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.289.0",
+    "autoprefixer": "^10.4.14",
+    "bcryptjs": "^2.4.3",
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "image-downloader": "^4.3.0",
+    "jsonwebtoken": "^9.0.0",
+    "mime-types": "^2.1.35",
+    "mongoose": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "parser": "^0.1.4",
+    "s3-upload": "^0.1.0"
+  }
+}
